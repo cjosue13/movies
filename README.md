@@ -1,4 +1,4 @@
-# React Back-End Movies app
+# React Native Fron-End Movies app
 This is a repository that contains the front-end of the movie application in React-Native
 
 ## First step:
